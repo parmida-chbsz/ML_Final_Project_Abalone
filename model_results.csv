@@ -1,0 +1,2 @@
+Model,Accuracy,AUC,Recall,Prec.,F1,Kappa,MCC
+Logistic Regression,0.5463,0.7602,0.5463,0.5316,0.5303,0.3157,0.3204

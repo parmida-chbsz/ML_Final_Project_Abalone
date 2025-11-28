@@ -33,3 +33,6 @@ PyCaret's compare_models() function evaluated multiple algorithms using 10-fold 
 ## Conclusions
 
 This project proves that it is inherently difficult to classify the sex of abalone by physical assessments because the biological characteristics overlap. Despite this, the final model was able to achieve performance in line with previously published results. The project also demonstrated the usefulness of feature selection and correlation filtering for better performance. PyCaret was a very efficient library for quick prototyping and model comparison, however, other libraries like scikit-learn, XGBoost or LightGBM could be explored for more advanced custom modelling in future work.
+
+## Link to video presentation
+https://www.loom.com/share/dd90d95db6954f8eaa95a7b07e669703
